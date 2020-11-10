@@ -4,16 +4,12 @@
     list-style: none;
     text-decoration: none;
     
-    
-    
 }
 
 
 body{
     background-color:#f9fdcd;
     justify-content: space-between;
-    
-   
     
 }
 
@@ -22,7 +18,6 @@ body{
     text-align: center;
     max-width: 600px;
     position: relative;
-    
 
 }
 #left-column{
